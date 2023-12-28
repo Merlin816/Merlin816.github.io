@@ -1,2 +1,2 @@
-![Alt text](./dreamscape.png "a title")
-Welcome to Dreamscape Software
+![Alt text](./paragon.png "a title")
+Welcome to Paragon Software
